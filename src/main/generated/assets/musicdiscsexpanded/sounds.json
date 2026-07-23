@@ -1,0 +1,10 @@
+{
+  "music_disc.no_escape": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:no_escape",
+        "stream": true
+      }
+    ]
+  }
+}

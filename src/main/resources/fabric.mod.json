@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "musicdiscsexpanded",
+  "version": "${version}",
+  "name": "Music Discs Expanded",
+  "description": "Adds fan made music discs into the game.",
+  "authors": [
+    "SHANTIASHAMS"
+  ],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.shantiashams.musicdiscsexpanded.MusicDiscsExpanded"
+    ],
+    "fabric-datagen": [
+      "com.shantiashams.musicdiscsexpanded.datagen.MusicDiscsExpandedDataGenerator"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
