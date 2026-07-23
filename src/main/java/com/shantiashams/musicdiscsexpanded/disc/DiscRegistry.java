@@ -36,6 +36,15 @@ public final class DiscRegistry {
                 0.10F,
                 Structures.FORTRESS
         );
+        register(
+                "breeze",
+                "Breeze",
+                "T_en_M ft",
+                180,
+                Rarity.RARE,
+                0.05F,
+                Structures.TRIAL_CHAMBERS_REWARD  
+        );
 
         // Add future discs above this line using the same register(...) shape.
 

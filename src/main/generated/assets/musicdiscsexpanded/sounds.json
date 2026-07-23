@@ -1,4 +1,12 @@
 {
+  "music_disc.breeze": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:breeze",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.no_escape": {
     "sounds": [
       {
