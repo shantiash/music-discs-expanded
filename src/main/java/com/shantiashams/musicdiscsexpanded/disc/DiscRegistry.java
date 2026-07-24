@@ -40,10 +40,28 @@ public final class DiscRegistry {
                 "breeze",
                 "Breeze",
                 "T_en_M ft",
-                180,
+                120,
                 Rarity.RARE,
                 0.05F,
                 Structures.TRIAL_CHAMBERS_REWARD  
+        );
+        register(
+                "not_dead_yet",
+                "Not Dead Yet",
+                "Laudividni",
+                123,
+                Rarity.RARE,
+                0.075F,
+                Structures.DUNGEON
+        );
+        register(
+                "voyage",
+                "Voyage",
+                "T_en_M ft. Laudividni",
+                128,
+                Rarity.RARE,
+                0.1F,
+                Structures.BURIED_TREASURE
         );
 
         // Add future discs above this line using the same register(...) shape.

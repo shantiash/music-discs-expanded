@@ -2,6 +2,10 @@
   "creativeTab.musicdiscsexpanded": "Music Discs Expanded",
   "item.musicdiscsexpanded.breeze": "Music Disc",
   "item.musicdiscsexpanded.no_escape": "Music Disc",
+  "item.musicdiscsexpanded.not_dead_yet": "Music Disc",
+  "item.musicdiscsexpanded.voyage": "Music Disc",
   "jukebox_song.musicdiscsexpanded.breeze": "T_en_M ft - Breeze",
-  "jukebox_song.musicdiscsexpanded.no_escape": "T_en_M ft. Laudividni - No Escape"
+  "jukebox_song.musicdiscsexpanded.no_escape": "T_en_M ft. Laudividni - No Escape",
+  "jukebox_song.musicdiscsexpanded.not_dead_yet": "Laudividni - Not Dead Yet",
+  "jukebox_song.musicdiscsexpanded.voyage": "T_en_M ft. Laudividni - Voyage"
 }

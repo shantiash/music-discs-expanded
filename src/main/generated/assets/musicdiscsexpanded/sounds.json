@@ -14,5 +14,21 @@
         "stream": true
       }
     ]
+  },
+  "music_disc.not_dead_yet": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:not_dead_yet",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.voyage": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:voyage",
+        "stream": true
+      }
+    ]
   }
 }
