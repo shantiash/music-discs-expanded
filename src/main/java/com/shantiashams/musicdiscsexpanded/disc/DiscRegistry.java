@@ -63,6 +63,126 @@ public final class DiscRegistry {
                 0.1F,
                 Structures.BURIED_TREASURE
         );
+        register(
+                "shared_fate",
+                "Shared Fate",
+                "Laudividni",
+                120,
+                Rarity.RARE,
+                0.10F,
+                Structures.TRIAL_CHAMBERS_REWARD_OMINOUS
+        );
+
+        register(
+                "gilded",
+                "Gilded",
+                "T_en_M",
+                133,
+                Rarity.RARE,
+                0.075F,
+                Structures.BASTION_ALL
+        );
+
+        register(
+                "the_ender_dragon",
+                "The Ender Dragon",
+                "T_en_M",
+                173,
+                Rarity.RARE,
+                0.10F,
+                Structures.END_CITY
+        );
+
+        register(
+                "below",
+                "Below",
+                "T_en_M",
+                121,
+                Rarity.RARE,
+                0.10F,
+                Structures.OCEAN_RUIN_COLD_ARCHAEOLOGY,
+                Structures.OCEAN_RUIN_WARM_ARCHAEOLOGY
+        );
+
+        register(
+                "diamond_cave",
+                "Diamond Cave",
+                "Laudividni",
+                117,
+                Rarity.RARE,
+                0.10F,
+                Structures.MINESHAFT
+        );
+
+        register(
+                "lightning",
+                "Lightning",
+                "T_en_M",
+                141,
+                Rarity.RARE,
+                0.10F,
+                Structures.TRIAL_CHAMBERS_REWARD
+        );
+
+        register(
+                "undead",
+                "Undead",
+                "T_en_M",
+                136,
+                Rarity.RARE,
+                0.05F,
+                Structures.DESERT_PYRAMID_ALL
+        );
+
+        register(
+                "nightfall",
+                "Nightfall",
+                "Laudividni",
+                137,
+                Rarity.RARE,
+                0.20F,
+                Structures.IGLOO
+        );
+
+        register(
+                "shulker",
+                "Shulker",
+                "T_en_M",
+                128,
+                Rarity.RARE,
+                0.10F,
+                Structures.END_CITY
+        );
+
+        register(
+                "lava_monster",
+                "Lava Monster",
+                "Aidan Haglund",
+                96,
+                Rarity.RARE,
+                0.10F,
+                Structures.FORTRESS
+        );
+
+        register(
+                "tundra",
+                "Tundra",
+                "T_en_M",
+                118,
+                Rarity.RARE,
+                0.10F,
+                Structures.VILLAGE_SNOWY_HOUSE
+        );
+
+        register(
+                "last_hallway",
+                "Last Hallway",
+                "Laudividni",
+                153,
+                Rarity.RARE,
+                0.10F,
+                Structures.STRONGHOLD_CORRIDOR
+        );
 
         // Add future discs above this line using the same register(...) shape.
 

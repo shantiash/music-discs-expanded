@@ -1,0 +1,8 @@
+{
+  "comparator_output": 6,
+  "description": {
+    "translate": "jukebox_song.musicdiscsexpanded.gilded"
+  },
+  "length_in_seconds": 133.0,
+  "sound_event": "musicdiscsexpanded:music_disc.gilded"
+}

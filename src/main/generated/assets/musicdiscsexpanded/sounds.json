@@ -1,8 +1,64 @@
 {
+  "music_disc.below": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:below",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.breeze": {
     "sounds": [
       {
         "name": "musicdiscsexpanded:breeze",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.diamond_cave": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:diamond_cave",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.gilded": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:gilded",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.last_hallway": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:last_hallway",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.lava_monster": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:lava_monster",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.lightning": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:lightning",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.nightfall": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:nightfall",
         "stream": true
       }
     ]
@@ -19,6 +75,46 @@
     "sounds": [
       {
         "name": "musicdiscsexpanded:not_dead_yet",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.shared_fate": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:shared_fate",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.shulker": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:shulker",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_ender_dragon": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:the_ender_dragon",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.tundra": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:tundra",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.undead": {
+    "sounds": [
+      {
+        "name": "musicdiscsexpanded:undead",
         "stream": true
       }
     ]
