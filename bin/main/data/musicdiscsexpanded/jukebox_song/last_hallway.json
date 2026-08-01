@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.musicdiscsexpanded.last_hallway"
+  },
+  "length_in_seconds": 153.0,
+  "sound_event": "musicdiscsexpanded:music_disc.last_hallway"
+}

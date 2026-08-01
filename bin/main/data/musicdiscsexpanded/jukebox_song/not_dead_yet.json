@@ -1,0 +1,8 @@
+{
+  "comparator_output": 3,
+  "description": {
+    "translate": "jukebox_song.musicdiscsexpanded.not_dead_yet"
+  },
+  "length_in_seconds": 123.0,
+  "sound_event": "musicdiscsexpanded:music_disc.not_dead_yet"
+}

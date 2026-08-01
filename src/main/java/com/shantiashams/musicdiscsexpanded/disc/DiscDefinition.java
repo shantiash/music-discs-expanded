@@ -12,6 +12,7 @@ import net.minecraft.world.item.Rarity;
 
 import java.util.List;
 import java.util.Objects;
+import java.util.Optional;
 
 /** Immutable source-of-truth record for one custom music disc. */
 public record DiscDefinition(
@@ -22,6 +23,7 @@ public record DiscDefinition(
         Rarity rarity,
         float lootChance,
         int comparatorOutput,
+        Optional<DiscRecipe> craftingRecipe,
         List<StructureLootTarget> structures
 ) {
     public DiscDefinition {
@@ -29,6 +31,7 @@ public record DiscDefinition(
         Objects.requireNonNull(songName, "songName");
         Objects.requireNonNull(artist, "artist");
         Objects.requireNonNull(rarity, "rarity");
+        Objects.requireNonNull(craftingRecipe, "craftingRecipe");
         Objects.requireNonNull(structures, "structures");
 
         if (lengthSeconds <= 0) {
@@ -45,6 +48,7 @@ public record DiscDefinition(
             throw new IllegalArgumentException("Comparator output must be between 1 and 15: " + id);
         }
 
+        craftingRecipe = craftingRecipe.map(recipe -> recipe.validatedCopy(id));
         structures = List.copyOf(structures);
     }
 

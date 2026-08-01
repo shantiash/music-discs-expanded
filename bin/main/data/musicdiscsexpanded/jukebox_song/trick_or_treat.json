@@ -1,0 +1,8 @@
+{
+  "comparator_output": 6,
+  "description": {
+    "translate": "jukebox_song.musicdiscsexpanded.trick_or_treat"
+  },
+  "length_in_seconds": 121.0,
+  "sound_event": "musicdiscsexpanded:music_disc.trick_or_treat"
+}

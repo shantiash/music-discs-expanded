@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": "minecraft:diamond",
+    "M": "#c:music_discs"
+  },
+  "pattern": [
+    "DMD"
+  ],
+  "result": {
+    "id": "musicdiscsexpanded:diamond_cave"
+  }
+}

@@ -18,5 +18,7 @@ public final class MusicDiscsExpandedDataGenerator implements DataGeneratorEntry
         pack.addProvider(ModLanguageProvider::new);
         pack.addProvider(ModSoundsProvider::new);
         pack.addProvider(ModJukeboxSongProvider::new);
+        pack.addProvider(ModItemTagProvider::new);
+        pack.addProvider(ModRecipeProvider::new);
     }
 }

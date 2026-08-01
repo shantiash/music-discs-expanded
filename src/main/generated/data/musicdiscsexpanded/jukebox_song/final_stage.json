@@ -1,0 +1,8 @@
+{
+  "comparator_output": 2,
+  "description": {
+    "translate": "jukebox_song.musicdiscsexpanded.final_stage"
+  },
+  "length_in_seconds": 122.0,
+  "sound_event": "musicdiscsexpanded:music_disc.final_stage"
+}

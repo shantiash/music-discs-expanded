@@ -1,0 +1,8 @@
+{
+  "comparator_output": 9,
+  "description": {
+    "translate": "jukebox_song.musicdiscsexpanded.diamond_cave"
+  },
+  "length_in_seconds": 117.0,
+  "sound_event": "musicdiscsexpanded:music_disc.diamond_cave"
+}
